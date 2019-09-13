@@ -13,9 +13,8 @@
 ・My Hobby
 > 音楽鑑賞.
 
-
-<details>
-<summary>大島商船のいいところ</summary>  
+<details> 
+<summary>大島商船のいいところ</summary><br>  
   1. 自然が豊か<br>
   2. Rich nature<br>
   3. 丰富的自然<br>
